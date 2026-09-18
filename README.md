@@ -31,9 +31,11 @@ You need a C compiler installed on your machine (e.g., `gcc` or `clang`).
 4) Division
 5) Exit
 Your choice: 1
-```
+
 
 You chose addition.
 Choose first number: 12
+
+```
 Choose second number: 8
 ---> 12 + 8 = 20
