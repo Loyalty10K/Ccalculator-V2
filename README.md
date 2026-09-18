@@ -21,3 +21,18 @@ You need a C compiler installed on your machine (e.g., `gcc` or `clang`).
    ```bash
    git clone [https://github.com/Loyalty10K/Ccalculator-V2.git](https://github.com/Loyalty10K/Ccalculator-V2.git)
    cd Ccalculator-V2
+   
+## Usage example
+
+Please choose the operation: 
+1) Addition
+2) Subtraction
+3) Multiplication
+4) Division
+5) Exit
+Your choice: 1
+
+You chose addition.
+Choose first number: 12
+Choose second number: 8
+---> 12 + 8 = 20
