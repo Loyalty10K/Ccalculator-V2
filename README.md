@@ -35,7 +35,6 @@ Your choice: 1
 
 You chose addition.
 Choose first number: 12
-
 ```
 Choose second number: 8
 ---> 12 + 8 = 20
