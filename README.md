@@ -19,5 +19,5 @@ You need a C compiler installed on your machine (e.g., `gcc` or `clang`).
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/loyalty10k/c-cli-calculator.git](https://github.com/loyalty10k/c-cli-calculator.git)
-   cd c-cli-calculator
+   git clone [https://github.com/Loyalty10K/Ccalculator-V2.git](https://github.com/Loyalty10K/Ccalculator-V2.git)
+   cd Ccalculator-V2
